@@ -17,6 +17,7 @@
 
 ## 相关链接
 
+-   PDF文件：[https://github.com/Morakito/Real-Time-Rendering-4th-CN/releases/tag/v1.0](https://github.com/Morakito/Real-Time-Rendering-4th-CN/releases/tag/v1.0 "https://github.com/Morakito/Real-Time-Rendering-4th-CN/releases/tag/v1.0")
 -   源文件仓库：[https://github.com/Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN "https://github.com/Morakito/Real-Time-Rendering-4th-CN")
 -   在线网站：[https://www.realtimerendering.com](https://www.realtimerendering.com/ "https://www.realtimerendering.com")
 -   勘误网站：[https://www.realtimerendering.com/corrigenda.html](https://www.realtimerendering.com/corrigenda.html "https://www.realtimerendering.com/corrigenda.html")
