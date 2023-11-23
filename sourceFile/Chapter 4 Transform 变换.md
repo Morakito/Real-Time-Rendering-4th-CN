@@ -122,33 +122,7 @@ $$
 我们可以很容易地推导出二维空间中的旋转矩阵。假设我们现在有一个向量$\mathbf{v} = (v_x, v_y)$，我们可以将其参数化表示为$\mathbf{v} = (v_x, v_y) = (r \cos \theta, r \sin \theta)$。如果我们将向量$\mathbf{v}$顺时针旋转$\phi$度，那么可以获得一个新向量$\mathbf{v} =  (r \cos (\theta + \phi), r \sin (\theta + \phi))$，这个变换过程可以写成如下形式：
 
 $$
-\begin{align}{}
-\mathbf{v} & = 
-\left( \begin{array}{}
-r \cos (\theta + \phi) \\
-r \sin (\theta + \phi)
-\end{array} \right)  = 
-\left( \begin{array}{}
-r (\cos \theta \cos \phi - \sin \theta \sin \phi) \\
-r (\sin \theta \cos \phi - \cos \theta \sin \phi)
-\end{array} \right) \\
-&= 
-\underbrace{
-\left( \begin{array}{}
-\cos \phi & -\sin \phi \\
-\sin \phi &  \cos \phi
-\end{array} \right)
-}_{\mathbf{R}(\phi)}
-\underbrace{
-\left( \begin{array}{}
-r \cos \theta \\
-r \sin \theta
-\end{array} \right)
-}_{\mathbf{v}}
-
-= \mathbf{R}(\phi) \mathbf{v}
-\end{align} 
-\tag{4.4} 
+\begin{aligned} \mathbf{u} & =\left(\begin{array}{c}r \cos (\theta+\phi) \\ r \sin (\theta+\phi)\end{array}\right)=\left(\begin{array}{l}r(\cos \theta \cos \phi-\sin \theta \sin \phi) \\ r(\sin \theta \cos \phi+\cos \theta \sin \phi)\end{array}\right) \\ & =\underbrace{\left(\begin{array}{rr}\cos \phi & -\sin \phi \\ \sin \phi & \cos \phi\end{array}\right)}_{\mathbf{R}(\phi)} \underbrace{\left(\begin{array}{l}r \cos \theta \\ r \sin \theta\end{array}\right)}_{\mathbf{v}}=\mathbf{R}(\phi) \mathbf{v},\end{aligned}\tag{4.4}
 $$
 
 在方程4.4的推导过程中，我们使用了三角函数的二角和差公式来将$\cos (\theta + \phi) ,\sin (\theta + \phi)$进行展开。在三维空间中，我们经常使用的旋转矩阵是$\mathbf{R}_x(\phi)$，$\mathbf{R}_y(\phi)$，$\mathbf{R}_z(\phi)$，它们分别代表了绕$x,y,z$轴旋转$\phi$度，它们的具体形式如下：
