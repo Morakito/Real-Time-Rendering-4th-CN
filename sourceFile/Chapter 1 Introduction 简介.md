@@ -166,7 +166,7 @@ $$
 操作符9则会将输入值限制在0到1之间：
 
 $$
-x^\pm = \left \{ 
+x^\mp = \left \{ 
 \begin{array}{}
 1, & \text{if} \ x \ge 1, \\
 x, & 0 < x < 1, \\
