@@ -17,6 +17,7 @@
 
 ## 相关链接
 
+-   B站视频：[https://www.bilibili.com/video/BV1UM411Z7g1](https://www.bilibili.com/video/BV1UM411Z7g1 "https://www.bilibili.com/video/BV1UM411Z7g1")
 -   PDF文件：[https://github.com/Morakito/Real-Time-Rendering-4th-CN/releases/tag/v1.0](https://github.com/Morakito/Real-Time-Rendering-4th-CN/releases/tag/v1.0 "https://github.com/Morakito/Real-Time-Rendering-4th-CN/releases/tag/v1.0")
 -   源文件仓库：[https://github.com/Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN "https://github.com/Morakito/Real-Time-Rendering-4th-CN")
 -   在线网站：[https://www.realtimerendering.com](https://www.realtimerendering.com/ "https://www.realtimerendering.com")

@@ -53,6 +53,7 @@
 ## 相关链接
 
 -   源文件仓库：[https://github.com/Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN "https://github.com/Morakito/Real-Time-Rendering-4th-CN")
+-   B站视频：[https://www.bilibili.com/video/BV1UM411Z7g1](https://www.bilibili.com/video/BV1UM411Z7g1 "https://www.bilibili.com/video/BV1UM411Z7g1")
 -   在线网站：[https://www.realtimerendering.com](https://www.realtimerendering.com/ "https://www.realtimerendering.com")
 -   勘误网站：[https://www.realtimerendering.com/corrigenda.html](https://www.realtimerendering.com/corrigenda.html "https://www.realtimerendering.com/corrigenda.html")
 -   参考文件网站：[https://www.realtimerendering.com/refs.html](https://www.realtimerendering.com/refs.html "https://www.realtimerendering.com/refs.html")
