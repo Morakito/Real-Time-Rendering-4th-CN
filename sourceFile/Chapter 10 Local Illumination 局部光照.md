@@ -491,7 +491,7 @@ SH基函数可以按照频带（frequency band）进行排列。第一个基函�
 Valve在《半条命2》系列游戏中\[1193, 1222]使用了一种十分新颖的表示方式，用于表示定向irradiance，它被称为辐射法向映射（radiosity normal mapping）。其最初的设计目的是为了存储预计算的漫反射光照，同时允许使用法线映射，它现在通常被称为《半条命2》基底。它通过在切线空间中采样三个方向来表示表面上的半球函数，如图10.22所示。三个相互垂直的基向量在切线空间中的坐标分别为：
 
 $$
-\mathbf{m}_{0}=\left(\frac{-1}{\sqrt{6}}, \frac{1}{\sqrt{2}}, \frac{1}{\sqrt{3}}\right), \quad \mathbf{m}_{1}=\left(\frac{-1}{\sqrt{6}}, \frac{-1}{\sqrt{2}}, \frac{1}{\sqrt{3}}\right), \quad \mathbf{m}_{2}=\left(\frac{\sqrt{2}}{\sqrt{3}}, 0, \frac{1}{\sqrt{3}}\right).
+\mathbf{m}_{0}=\left(\frac{-1}{\sqrt{6}}, \frac{1}{\sqrt{2}}, \frac{1}{\sqrt{3}}\right), \quad \\[2mm] \mathbf{m}_{1}=\left(\frac{-1}{\sqrt{6}}, \frac{-1}{\sqrt{2}}, \frac{1}{\sqrt{3}}\right), \quad \\[2mm] \mathbf{m}_{2}=\left(\frac{\sqrt{2}}{\sqrt{3}}, 0, \frac{1}{\sqrt{3}}\right).
  \tag{10.24} 
 $$
 
