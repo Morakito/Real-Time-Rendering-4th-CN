@@ -103,7 +103,9 @@
 
 这个过程解释了为什么云和雾的散射光是如此强烈。因为这两种现象都是由冷凝（condensation）产生的，所谓冷凝，是指空气中的水分子聚集成越来越大的团簇的过程。这会显著增加光的散射，即使水分子的总体密度并没有发生变化。有关云渲染的内容，将在章节14.4.2中进行讨论。
 
-当我们在讨论光线散射的时候，粒子（particle）这个术语同时代表了孤立的分子与包含多个分子的团簇。由于直径小于波长的多分子粒子散射，是孤立分子散射的增强版本（由于相长干涉），因此它会表现出相同的方向性变化和波长依赖性。这种类型的散射在大气粒子中被称为瑞利散射（Rayleigh scattering），在固体中则被称为丁达尔散射（Tyndall scattering）
+当我们在讨论光线散射的时候，粒子（particle）这个术语同时代表了孤立的分子与包含多个分子的团簇。由于直径小于波长的多分子粒子散射，是孤立分子散射的增强版本（由于相长干涉），因此它会表现出相同的方向性变化和波长依赖性。这种类型的散射在大气粒子中被称为瑞利散射（Rayleigh scattering），在固体中则被称为丁达尔散射（Tyndall scattering）。
+
+> 译者注：丁达尔效应（[Tyndall effect - Wikipedia](https://en.wikipedia.org/wiki/Tyndall_effect "Tyndall effect - Wikipedia")）不是简单的瑞利散射或者简单的米氏散射，它特指胶体中发生的一种光学现象，即波长较长的光会更多地沿着光线方向进行传播，而波长较短的光则会被更多地散射。瑞利散射一般发生在粒子尺度小于十分之一可见光波长的情况下（[Rayleigh scattering - Wikipedia](https://en.wikipedia.org/wiki/Rayleigh_scattering "Rayleigh scattering - Wikipedia")）；米氏散射一般发生在粒子尺度接近或者大于可见光波长的情况下（[Mie scattering - Wikipedia](https://en.wikipedia.org/wiki/Mie_scattering "Mie scattering - Wikipedia")）。
 
 当粒子的大小超过光波长的时候，散射波在不再是同相的，这会改变散射的性质。散射光的方向越来越倾向于前向（即光波的原始传播方向），此时波长的依赖性会降低，直到所有的可见光波长都被均匀散射，这种类型的散射被称为米氏散射（Mie scattering）。章节14.1会对瑞利散射和米氏散射进行了更加详细的描述。
 
