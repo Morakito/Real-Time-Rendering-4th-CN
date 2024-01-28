@@ -25,6 +25,7 @@
 -   参考文件网站：[https://www.realtimerendering.com/refs.html](https://www.realtimerendering.com/refs.html "https://www.realtimerendering.com/refs.html")
 -   参考文献合集仓库：[https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection")
 -   wolai文件：[https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W](https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W "https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W")
+-   EPUB 格式文件（来自@wizardforcel）：[https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6](https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6 "https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6")
 
 ## 序言
 
