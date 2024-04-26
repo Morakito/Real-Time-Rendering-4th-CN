@@ -738,7 +738,7 @@ z-buffer存在的一个限制是，每个像素位置上仅会存储距离相机
 我们可以对$\mathbf{over}$运算符的方程进行一些修改，使得从前向后的混合也可以得到相同的结果，这种混合模式被称作为$\mathbf{under}$运算符。
 
 $$
-\mathbf{c}_{o}=\dfrac{\alpha_{d} \mathbf{c}_{d}+\left(1-\alpha_{d}\right) \alpha_{s} \mathbf{c}_{s}}{\mathbf{a}_{o}} \quad [\mathbf{over} \quad {\rm operator}]\\\mathbf{a}_{o}=\alpha_{s}\left(1-\alpha_{d}\right)+\alpha_{d}=\alpha_{s}-\alpha_{s} \alpha_{d}+\alpha_{d}
+\mathbf{c}_{o}=\dfrac{\alpha_{d} \mathbf{c}_{d}+\left(1-\alpha_{d}\right) \alpha_{s} \mathbf{c}_{s}}{\mathbf{a}_{o}} \quad [\mathbf{under} \quad {\rm operator}]\\\mathbf{a}_{o}=\alpha_{s}\left(1-\alpha_{d}\right)+\alpha_{d}=\alpha_{s}-\alpha_{s} \alpha_{d}+\alpha_{d}
 \tag{5.26} 
 $$
 
