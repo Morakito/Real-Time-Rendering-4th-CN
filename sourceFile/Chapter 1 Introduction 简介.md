@@ -86,11 +86,11 @@
 
 ## 1.2 符号和定义
 
-首先我们需要解释一下本书中所用到的数学符号。如果你想对本小节或者本书中的术语做更加深入的了解，你可以在[realtimerendering.com](http://realtimerendering.com "realtimerendering.com")上获得我们的线性代数附录。
+首先我们需要解释一下本书中所用到的数学符号。如果你想对本小节或者本书中的术语做更加深入的了解，你可以在[realtimerendering.com](http://realtimerendering.com "realtimerendering.com")上找到我们的线性代数附录。
 
 ### 1.2.1 数学符号
 
-表1.1中总结了大部分我们将用到的数学符号，这里我们将对其中的一些概念进行详细描述。
+表1.1中总结了大部分我们将要用到的数学符号，这里我们将对其中的一些概念进行详细描述。
 
 请注意表格中的规则也有一些例外，这主要是因为着色方程中所使用的符号，在相关文献中已经非常完善且统一了，例如$L$代表辐射度（radiance），$E$代表辐照度（irradiance），$\sigma_s$代表散射系数（scattering coefficient）等。
 
@@ -227,8 +227,7 @@ $\mathsf{atan2}(y, x)$是一个C语言中的数学函数，它在本文中经常
 
 ## 深入阅读和资源
 
-我们能够给你提供的、最重要的资源，就是本书的配套网站：[realtimerendering.com](http://realtimerendering.com "realtimerendering.com")，其中包含了最新信息的链接以及每章相应的网站。实时渲染的研究领域也是实时变化的，在本书中，我们试图关注那些最基本的概念，以及那些不太可能过失的技术。在这个网站上，我们可以展示与当今软件开发者有关的信息，并且我们有能力将其进行不断更新。
-
+我们能够给你提供的、最重要的资源，就是本书的配套网站：[realtimerendering.com](http://realtimerendering.com "realtimerendering.com")，其中包含了最新信息的链接以及每章相应的网站。实时渲染的研究领域也是实时变化的，在本书中，我们试图关注那些最基本的概念，以及那些不太可能过时的技术。在这个网站上，我们可以展示与当今软件开发者有关的信息，并且我们有能力将其进行不断更新。
 
 
 
