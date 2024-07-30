@@ -369,9 +369,9 @@ $$
 \end{array}  \right) 
 =
 \left ( \begin{array}{}
-\mathbf{r}_0 ^T, \\[1mm]
-\mathbf{r}_1 ^T, \\[1mm]
-\mathbf{r}_2 ^T,
+\mathbf{r}_{0,} ^T \\[1mm]
+\mathbf{r}_{1,} ^T \\[1mm]
+\mathbf{r}_{2,} ^T
 \end{array}  \right) ,
 \\
 \mathbf{X} 
@@ -384,12 +384,12 @@ $$
 \tag{4.18} 
 $$
 
-其中$\mathbf{r}_{,0}$代表了旋转矩阵中的第一列（即第一个逗号取值可以是0-2，而第二个下标的值始终为0），$\mathbf{r}_0 ^T$代表了旋转矩阵中的第一行。还需要注意的是，方程中的$\mathbf{0}$代表一个$3 \times 1$的零向量。在这种表示方式下，方程4.19给出了矩阵$\mathbf{X}$的逆矩阵的计算过程：
+其中$\mathbf{r}_{,0}$代表了旋转矩阵中的第一列（即第一个逗号取值可以是0-2，而第二个下标的值始终为0），$\mathbf{r}_{0,} ^T$代表了旋转矩阵中的第一行。还需要注意的是，方程中的$\mathbf{0}$代表一个$3 \times 1$的零向量。在这种表示方式下，方程4.19给出了矩阵$\mathbf{X}$的逆矩阵的计算过程：
 
 $$
 \mathbf{X^{-1}} = 
 \left ( \begin{array}{}
-\mathbf{r}_{0} & \mathbf{r}_{1} & \mathbf{r}_{2} & \mathbf{-\bar{R}^T{}t}\\
+\mathbf{r}_{0,} & \mathbf{r}_{1,} & \mathbf{r}_{2,} & \mathbf{-\bar{R}^T{}t}\\
 0&0&0&1
 \end{array}  \right) 
 \tag{4.19} 
