@@ -15,6 +15,10 @@
 
 内容简介：本翻译版涵盖了RTR4中的第1章-第26章中的内容。附录内容详见在线网站，参考文献目录详见参考文献网站和参考文献合集，已涵盖勘误内容（截止到2023.10.30）。由于本人才疏学浅，翻译难免有误，望各位不吝惜指正。本翻译仅供交流学习，如有侵权，请联系删除。
 
+阅读建议：
+- 推荐使用在线阅读（勘误及时、排版美观、跳转方便）：[https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W](https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W "https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W")
+- 推荐搭配参考文献合集进行深入阅读：[https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection")
+
 ## 相关链接
 
 -   B站视频：[https://www.bilibili.com/video/BV1UM411Z7g1](https://www.bilibili.com/video/BV1UM411Z7g1 "https://www.bilibili.com/video/BV1UM411Z7g1")
