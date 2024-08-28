@@ -368,7 +368,7 @@ $$
 照射到平面上的光线会分为反射和折射两个部分。反射光线的方向（$\mathbf{r}_i$）与表面法线$\mathbf{n}$之间的夹角，入射光线方向（$\mathbf{l}$）和表面法线$\mathbf{n}$之间的夹角，这两个夹角是完全相同的，记为$\theta_i$。反射向量$\mathbf{r}_i$可以由表面法线$\mathbf{n}$和入射光方向$\mathbf{l}$计算得出：
 
 $$
-\mathbf{r}_{i}=2(\mathbf{n} \cdot \mathbf{l}) \mathbf{n}-1 \tag{9.15}
+\mathbf{r}_{i}=2(\mathbf{n} \cdot \mathbf{l}) \mathbf{n}-\mathbf{l} \tag{9.15}
 $$
 
 如图9.19所示。反射光的光量（入射光的一部分）由菲涅尔反射率（Fresnel reflectance）$F$来描述，它取决于入射角度$\theta_i$。
