@@ -29,7 +29,14 @@
 -   参考文件网站：[https://www.realtimerendering.com/refs.html](https://www.realtimerendering.com/refs.html "https://www.realtimerendering.com/refs.html")
 -   参考文献合集仓库：[https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection")
 -   wolai文件：[https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W](https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W "https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W")
--   EPUB 格式文件（来自@wizardforcel）：[https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6](https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6 "https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6")
+-   EPUB 格式文件
+    - @wizardforcel：[https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6](https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6 "https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6")
+    - @milkiq：[https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/12](https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/12 "https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/12")
+
+
+<p align="center">
+<a href="https://hellogithub.com/repository/b5e41e9eafaa4bc9bdd282ee18bd78ad" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=b5e41e9eafaa4bc9bdd282ee18bd78ad&claim_uid=hq2FmcaMnxAv60o" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</p>
 
 ## 序言
 
