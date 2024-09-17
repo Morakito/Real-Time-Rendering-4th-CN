@@ -1041,7 +1041,7 @@ f_{\mathrm{diff}}(\mathbf{l}, \mathbf{v})=\frac{21}{20 \pi}\left(1-F_{0}\right) 
 \tag{9.64} 
 $$
 
-方程9.64只适用于镜面反射为完美菲涅尔镜面的表面。Ashikhmin和Shirley \[77]提出了一个广义的版本，它可以用来计算一个可逆的（reciprocal）、低计算开销的漫反射项，并且它可以与任何高光项结合使用。Kelemen和Szirmay-Kalos \[878]对其进行了进一步完善：
+方程9.64只适用于镜面反射为完美菲涅尔镜面的表面。Ashikhmin和Shirley \[77]提出了一个广义的版本，它可以用来计算一个互易的（reciprocal）、能量守恒的漫反射项，并且它可以与任何高光项结合使用。Kelemen和Szirmay-Kalos \[878]对其进行了进一步完善：
 
 $$
 f_{\mathrm{diff}}(\mathbf{l}, \mathbf{v})=\rho_{\mathrm{ss}} \frac{\left(1-R_{\mathrm{spec}}(\mathbf{l})\right)\left(1-R_{\mathrm{spec}}(\mathbf{v})\right)}{\pi\left(1-\overline{R_{\mathrm{spec}}}\right)}
