@@ -1079,7 +1079,7 @@ $$
 \begin{aligned} 
 f_{\mathrm{d}} & =\left(1+\left(F_{\mathrm{D} 90}-1\right)(1-\mathbf{n} \cdot \mathbf{l})^{5}\right)\left(1+\left(F_{\mathrm{D} 90}-1\right)(1-\mathbf{n} \cdot \mathbf{v})^{5}\right), \\[1mm]
  F_{\mathrm{D} 90} & =0.5+2 \sqrt{\alpha}(\mathbf{h} \cdot \mathbf{l})^{2}, \\
-  f_{\mathrm{Ss}} & =\left(\frac{1}{(\mathbf{n} \cdot \mathbf{l})(\mathbf{n} \cdot \mathbf{v})}-0.5\right) F_{\mathrm{SS}}+0.5, \\
+  f_{\mathrm{ss}} & =\left(\frac{1}{(\mathbf{n} \cdot \mathbf{l})(\mathbf{n} \cdot \mathbf{v})}-0.5\right) F_{\mathrm{SS}}+0.5, \\
    F_{\mathrm{SS}} & =\left(1+\left(F_{\mathrm{SS} 90}-1\right)(1-\mathbf{n} \cdot \mathbf{l})^{5}\right)\left(1+\left(F_{\mathrm{SS} 90}-1\right)(1-\mathbf{n} \cdot \mathbf{v})^{5}\right), \\[1mm]
     F_{\mathrm{SS} 90} & =\sqrt{\alpha}(\mathbf{h} \cdot \mathbf{l})^{2},\end{aligned}
     \tag{9.67}  
