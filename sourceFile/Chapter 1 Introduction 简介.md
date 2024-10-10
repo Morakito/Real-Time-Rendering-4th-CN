@@ -106,7 +106,7 @@ $$
 | 标量（scalar）            | 小写斜体             | $a, b, t, u_k, v, w_{ij}$                                                                     |
 | 向量，点（vector，point）    | 小写粗体             | $\mathbf{a}, \mathbf{u}, \mathbf{v}_s, \mathbf{h}(\rho), \mathbf{h}_z$                      |
 | 矩阵（matrix）            | 大写粗体             | $\mathbf{T(t)}, \mathbf{X}, \mathbf{R}_x(\rho),$                                              |
-| 平面（plane）             | $\pi$:一个向量和一个标量  | $\pi :\mathbf{n} \cdot \mathbf{x} + d = 0$, <br> $\pi_1 :\mathbf{n}_1 \cdot \mathbf{x} + d_1 = 0$ |
+| 平面（plane）             | $\pi$:一个向量和一个标量  | $\pi :\mathbf{n} \cdot \mathbf{x} + d = 0,  \\\pi_1 :\mathbf{n}_1 \cdot \mathbf{x} + d_1 = 0$ |
 | 三角形（triangle）         | $\triangle$+三个顶点 | $\triangle \mathbf{v}_0 \mathbf{v}_1 \mathbf{v}_2, \triangle \mathbf{cba}$                        |
 | 线段（line segment）      | 两个顶点             | $\mathbf{uv}, \mathbf{a}_i \mathbf{b}_j$                                                          |
 | 几何实体（geometry entity） | 大写斜体             | $A_{OBB}, T, B_{AABB}$                                                                            |
@@ -153,7 +153,7 @@ $$
 | 10     | $n!$                                                | 阶乘                |
 | 11     | $\left( \begin{array}{} n \\ k  \end{array}\right)$ | 二项式系数             |
 
-我们使用$\vert a \vert$来表示标量$a$的绝对值，使用$\vert \mathbf{A} \vert$来表示矩阵$\mathbf{A} $的行列式。有时我们还会使用$\vert \mathbf{A} \vert = \vert \mathbf{a \quad b \quad c} \vert = \det(\mathbf{a,b,c})$这种表示方式，其中$\mathbf{a,b,c}$分别是矩阵$\mathbf{A}$的列向量。
+我们使用$\vert a \vert$来表示标量$a$的绝对值，使用$\vert \mathbf{A} \vert$来表示矩阵$\mathbf{A}$的行列式。有时我们还会使用$\vert \mathbf{A} \vert = \vert \mathbf{a \quad b \quad c} \vert = \det(\mathbf{a,b,c})$这种表示方式，其中$\mathbf{a,b,c}$分别是矩阵$\mathbf{A}$的列向量。
 
 第8和第9个操作符是限制操作符（clamp），它在着色计算中经常使用。操作符8会将输入值的负数部分限制到0：
 
