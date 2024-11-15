@@ -72,7 +72,7 @@ $$
 -   NVIDIA的Nsight是一个具有广泛功能的性能和调试系统。它集成在了Windows上的Visual Studio中，以及Mac OS和Linux上的Eclipse中。
 -   Microsoft的PIX长期以来一直被Xbox开发人员所使用，并被带回到了Windows上的DirectX 12。Visual Studio中的Graphics Diagnostics功能可以用于早期版本的DirectX。
 -   Microsoft的GPUView使用了ETW （Event Tracing for Windows），这是一个高效的事件日志系统。GPUView是几个使用ETW会话的程序之一，它重点关注CPU和GPU之间的交互，并可以表明具体哪个是瓶颈\[783]。
--   Graphics Performance Analyzer （GPA）是英特尔的一个套件，它专注于性能和框架分析，同时并不仅局限于他们的图形芯片。
+-   Graphics Performance Analyzer （GPA）是英特尔的一个套件，它专注于性能和帧分析，同时并不仅局限于他们的图形芯片。
 -   OSX上的Xcode提供了Instruments，其中有一些用于计时、性能、网络、内存泄漏的工具。值得一提的是OpenGL ES Analysis，它可以检测性能和正确性问题，并可以提出一些解决方案。还有Metal System Trace，它可以提供来自应用程序、驱动程序和GPU中的追踪信息。
 
 上述这些工具是一些主要使用的工具，并且已经存在好几年了。但是，有时候也可能会没有工具能够完成我们想实现的目的。大多数API都内置了计时器查询（timer query）工具，从而帮助分析GPU的性能。一些供应商也提供了相应的库，来访问GPU计数器和线程追踪等。
