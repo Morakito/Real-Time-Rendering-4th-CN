@@ -427,7 +427,7 @@ u_x & u_y & u_z & 0 \\
 &=\left ( \begin{array}{}
 r_x & r_y & r_z & -\mathbf{t \cdot r} \\
 u_x & u_y & u_z & -\mathbf{t \cdot u} \\
--v_x & -v_y & -v_z & -\mathbf{t \cdot v} \\
+-v_x & -v_y & -v_z & \mathbf{t \cdot v} \\
 0 & 0 & 0 & 1 \\
 \end{array}  \right) 
 \end{array}
