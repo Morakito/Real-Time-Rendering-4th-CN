@@ -19,6 +19,85 @@
 - 推荐使用在线阅读（勘误及时、排版美观、跳转方便）：[https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W](https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W "https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W")
 - 推荐搭配参考文献合集进行深入阅读：[https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection")
 
+## 📌 TODO 任务列表
+
+当前项目正在进行 **《Real-Time Rendering 4th》** 的翻译和 LaTeX 排版工作。所有任务将在此处跟踪。
+
+### 🚀 当前进行的任务
+- [ ] **Markdown → LaTeX 转换**
+  - [x] 章节 0-4 ✅
+  - [ ] 章节 5-以及后续章节 ❌
+- [ ] **排版优化**
+  - [ ] 统一 LaTeX 代码格式
+  - [ ] 处理数学公式的对齐和美化
+- [ ] **超链接修正**
+  - [ ] 参考文献链接
+  - [ ] 章节间超链接
+- [ ] **图片 & 表格排版**
+  - [ ] 图片大小 & 位置优化
+  - [ ] 表格格式调整，确保 LaTeX 正确渲染
+
+### 🔮 未来任务
+- [ ] **术语表整理**
+- [ ] **全书矫正**
+- [ ] **最终 LaTeX 编译 & 生成 PDF**
+
+---
+
+👥 **如何参与**
+- Fork 仓库
+- Clone 你的 Fork 仓库到本地
+- 切换到 master 分支并更新
+  ```
+  git checkout master
+  git pull origin master
+  ```
+- 创建新的分支（建议基于任务命名）  
+  例如：
+  ```
+  git checkout -b dev-interpret-chapter-4
+  ```
+- 修改文件  
+  例如：
+  * Markdown → LaTeX 转换 ：  
+    例如：使用 Pandoc 将 ``Chapter-0-Foreword-前言.md`` 转为 ``Chapter-0-Foreword-前言.tex``
+    ```bash
+    cd sourceFile
+    pandoc Chapter-0-Foreword-前言.md -o Chapter-0-Foreword-前言.tex --template templates/eisvogel.latex
+    ```  
+    直接使用 Pandoc 将 `.md` 转换为 `.tex` 后，通常无法直接通过 LaTeX 编译生成目标 `.pdf`，还需要手动修正转换后的 `.tex` 文件中的错误。如果您知道更高效的 Markdown 转 LaTeX 方法，欢迎分享！
+
+  * 排版优化 or 超链接修正 or 图片 & 表格排版：  
+    直接修改对应的 .md 文件或者 .tex 文件。  
+  
+  * 编译 .tex 文件：      
+    例如：使用 LaTex 将 ``Chapter-0-Foreword-前言.tex`` 编译为 ``Chapter-0-Foreword-前言.pdf``  
+    ```bash
+    xelatex Chapter-0-Foreword-前言.tex
+    ```
+  
+- 提交修改  
+  **不要提交编译 .tex 时产生的辅助文件，只需要提交 .md，.tex 和 .pdf 文件!**  
+  例如：  
+  ```bash
+  git add *.md *.tex *.pdf
+  git commit -m "翻译完成 Chapter 4，调整排版"
+  ```
+- 推送到你的 Fork 仓库  
+  例如：
+  ```bash
+  git push origin dev-interpret-chapter-4
+  ```
+- 创建 Pull Request（PR）  
+  * 打开 GitHub 页面，进入你的 Fork 仓库。
+  * GitHub 会提示你创建 PR，选择 主仓库的 master 分支 作为合并目标。
+  * 在 PR 说明里写明：
+    ```
+    - 📖 任务：翻译 Chapter 4
+    - ✅ 调整：修正术语 & 统一排版
+    ```
+  * 提交 PR，等待项目维护者 Review。
+
 ## 相关链接
 
 -   B站视频：[https://www.bilibili.com/video/BV1UM411Z7g1](https://www.bilibili.com/video/BV1UM411Z7g1 "https://www.bilibili.com/video/BV1UM411Z7g1")
