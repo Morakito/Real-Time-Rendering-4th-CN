@@ -1,38 +1,38 @@
-# 新页面
+# Chapter 0 前言
 
 ## 目录
 
--   [实时渲染第四版](#实时渲染第四版)
-    -   [关于本书](#关于本书)
-    -   [相关链接](#相关链接)
-    -   [序言](#序言)
-    -   [目录](#目录)
-        -   [Chapter 1 Introduction 简介](#Chapter-1-Introduction-简介)
-        -   [Chapter 2 The Graphics Rendering Pipeline 图形渲染管线](#Chapter-2-The-Graphics-Rendering-Pipeline-图形渲染管线)
-        -   [Chapter 3 The Graphics Processing Unit 图形处理单元](#Chapter-3-The-Graphics-Processing-Unit-图形处理单元)
-        -   [Chapter 4 Transform 变换](#Chapter-4-Transform-变换)
-        -   [Chapter 5 Shading Basics 着色基础](#Chapter-5-Shading-Basics-着色基础)
-        -   [Chapter 6 Texturing 纹理](#Chapter-6-Texturing-纹理)
-        -   [Chapter 7 Shadows 阴影](#Chapter-7-Shadows-阴影)
-        -   [Chapter 8 Light and Color 光与颜色](#Chapter-8-Light-and-Color-光与颜色)
-        -   [Chapter 9 Physically Based Shading 基于物理的着色](#Chapter-9-Physically-Based-Shading-基于物理的着色)
-        -   [Chapter 10 Local Illumination 局部光照](#Chapter-10-Local-Illumination-局部光照)
-        -   [Chapter 11 Global Illumination 全局光照](#Chapter-11-Global-Illumination-全局光照)
-        -   [Chapter 12 ImageSpace Effects 图像空间特效](#Chapter-12-ImageSpace-Effects-图像空间特效)
-        -   [Chapter 13 Beyond Polygons 超越多边形](#Chapter-13-Beyond-Polygons-超越多边形)
-        -   [Chapter 14 Volumetric and Translucency Rendering 体积与半透明渲染](#Chapter-14-Volumetric-and-Translucency-Rendering-体积与半透明渲染)
-        -   [Chapter 15 NonPhotorealistic Rendering 非真实感渲染](#Chapter-15-NonPhotorealistic-Rendering-非真实感渲染)
-        -   [Chapter 16 Polygonal Techniques 多边形技术](#Chapter-16-Polygonal-Techniques-多边形技术)
-        -   [Chapter 17 Curves and Curved Surfaces 曲线和曲面](#Chapter-17-Curves-and-Curved-Surfaces-曲线和曲面)
-        -   [Chapter 18 Pipeline Optimization 管线优化](#Chapter-18-Pipeline-Optimization-管线优化)
-        -   [Chapter 19 Acceleration Algorithms 加速算法](#Chapter-19-Acceleration-Algorithms-加速算法)
-        -   [Chapter 20 Efficient Shading 高效着色](#Chapter-20-Efficient-Shading-高效着色)
-        -   [Chapter 21 Virtual and Augmented Reality 虚拟现实和增强现实](#Chapter-21-Virtual-and-Augmented-Reality-虚拟现实和增强现实)
-        -   [Chapter 22 Intersection Test Methods 相交测试方法](#Chapter-22-Intersection-Test-Methods-相交测试方法)
-        -   [Chapter 23 Graphics Hardware 图形硬件](#Chapter-23-Graphics-Hardware-图形硬件)
-        -   [Chapter 24 The Future 未来](#Chapter-24-The-Future-未来)
-        -   [Chapter 25 Collision Detection 碰撞检测](#Chapter-25-Collision-Detection-碰撞检测)
-        -   [Chapter 26 RealTime Ray Tracing 实时光线追踪](#Chapter-26-RealTime-Ray-Tracing-实时光线追踪)
+- [实时渲染第四版](#实时渲染第四版)
+  - [关于本书](#关于本书)
+  - [相关链接](#相关链接)
+  - [序言](#序言)
+  - [目录](#目录)
+    - [Chapter 1 Introduction 简介](#Chapter-1-Introduction-简介)
+    - [Chapter 2 The Graphics Rendering Pipeline 图形渲染管线](#Chapter-2-The-Graphics-Rendering-Pipeline-图形渲染管线)
+    - [Chapter 3 The Graphics Processing Unit 图形处理单元](#Chapter-3-The-Graphics-Processing-Unit-图形处理单元)
+    - [Chapter 4 Transform 变换](#Chapter-4-Transform-变换)
+    - [Chapter 5 Shading Basics 着色基础](#Chapter-5-Shading-Basics-着色基础)
+    - [Chapter 6 Texturing 纹理](#Chapter-6-Texturing-纹理)
+    - [Chapter 7 Shadows 阴影](#Chapter-7-Shadows-阴影)
+    - [Chapter 8 Light and Color 光与颜色](#Chapter-8-Light-and-Color-光与颜色)
+    - [Chapter 9 Physically Based Shading 基于物理的着色](#Chapter-9-Physically-Based-Shading-基于物理的着色)
+    - [Chapter 10 Local Illumination 局部光照](#Chapter-10-Local-Illumination-局部光照)
+    - [Chapter 11 Global Illumination 全局光照](#Chapter-11-Global-Illumination-全局光照)
+    - [Chapter 12 ImageSpace Effects 图像空间特效](#Chapter-12-ImageSpace-Effects-图像空间特效)
+    - [Chapter 13 Beyond Polygons 超越多边形](#Chapter-13-Beyond-Polygons-超越多边形)
+    - [Chapter 14 Volumetric and Translucency Rendering 体积与半透明渲染](#Chapter-14-Volumetric-and-Translucency-Rendering-体积与半透明渲染)
+    - [Chapter 15 NonPhotorealistic Rendering 非真实感渲染](#Chapter-15-NonPhotorealistic-Rendering-非真实感渲染)
+    - [Chapter 16 Polygonal Techniques 多边形技术](#Chapter-16-Polygonal-Techniques-多边形技术)
+    - [Chapter 17 Curves and Curved Surfaces 曲线和曲面](#Chapter-17-Curves-and-Curved-Surfaces-曲线和曲面)
+    - [Chapter 18 Pipeline Optimization 管线优化](#Chapter-18-Pipeline-Optimization-管线优化)
+    - [Chapter 19 Acceleration Algorithms 加速算法](#Chapter-19-Acceleration-Algorithms-加速算法)
+    - [Chapter 20 Efficient Shading 高效着色](#Chapter-20-Efficient-Shading-高效着色)
+    - [Chapter 21 Virtual and Augmented Reality 虚拟现实和增强现实](#Chapter-21-Virtual-and-Augmented-Reality-虚拟现实和增强现实)
+    - [Chapter 22 Intersection Test Methods 相交测试方法](#Chapter-22-Intersection-Test-Methods-相交测试方法)
+    - [Chapter 23 Graphics Hardware 图形硬件](#Chapter-23-Graphics-Hardware-图形硬件)
+    - [Chapter 24 The Future 未来](#Chapter-24-The-Future-未来)
+    - [Chapter 25 Collision Detection 碰撞检测](#Chapter-25-Collision-Detection-碰撞检测)
+    - [Chapter 26 RealTime Ray Tracing 实时光线追踪](#Chapter-26-RealTime-Ray-Tracing-实时光线追踪)
 
 # 实时渲染第四版
 
@@ -44,21 +44,30 @@
 
 翻译者：Morakito
 
-版本：v1.0
+最新版本：v1.1
 
-时间：2023.11.20
+更新时间：2025.3.12
 
-内容简介：本翻译版涵盖了RTR4中的第1章-第26章中的内容。附录内容详见在线网站，参考文献目录详见参考文献网站和参考文献合集，已涵盖勘误内容（截止到2023.10.30）。由于本人才疏学浅，翻译难免有误，望各位不吝惜指正。本翻译仅供交流学习，如有侵权，请联系删除。
+内容简介：本翻译版涵盖了RTR4中的第1章-第26章中的内容。附录内容详见在线网站，参考文献目录详见参考文献网站和参考文献合集，已涵盖勘误内容（包含significant errors和minor errors，截止到2025.1.22）。由于本人才疏学浅，翻译难免有误，望各位不吝惜指正。本翻译仅供交流学习，如有侵权，请联系删除。
+
+阅读建议：
+
+- 推荐使用在线阅读（勘误及时、排版美观、跳转方便）：[https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W](https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W"https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W" "https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W")
+- 推荐搭配参考文献合集进行深入阅读：[https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection"https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection" "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection")
 
 ## 相关链接
 
--   源文件仓库：[https://github.com/Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN "https://github.com/Morakito/Real-Time-Rendering-4th-CN")
--   B站视频：[https://www.bilibili.com/video/BV1UM411Z7g1](https://www.bilibili.com/video/BV1UM411Z7g1 "https://www.bilibili.com/video/BV1UM411Z7g1")
--   在线网站：[https://www.realtimerendering.com](https://www.realtimerendering.com/ "https://www.realtimerendering.com")
--   勘误网站：[https://www.realtimerendering.com/corrigenda.html](https://www.realtimerendering.com/corrigenda.html "https://www.realtimerendering.com/corrigenda.html")
--   参考文件网站：[https://www.realtimerendering.com/refs.html](https://www.realtimerendering.com/refs.html "https://www.realtimerendering.com/refs.html")
--   参考文献合集仓库：[https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection")
--   wolai文件：[https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W](https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W "https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W")
+- B站视频：[https://www.bilibili.com/video/BV1UM411Z7g1](https://www.bilibili.com/video/BV1UM411Z7g1 "https://www.bilibili.com/video/BV1UM411Z7g1")
+- PDF文件：[https://github.com/Morakito/Real-Time-Rendering-4th-CN/releases/tag/v1.0](https://github.com/Morakito/Real-Time-Rendering-4th-CN/releases/tag/v1.0 "https://github.com/Morakito/Real-Time-Rendering-4th-CN/releases/tag/v1.0")
+- 源文件仓库：[https://github.com/Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN "https://github.com/Morakito/Real-Time-Rendering-4th-CN")
+- 在线网站：[https://www.realtimerendering.com](https://www.realtimerendering.com/ "https://www.realtimerendering.com")
+- 勘误网站：[https://www.realtimerendering.com/corrigenda.html](https://www.realtimerendering.com/corrigenda.html "https://www.realtimerendering.com/corrigenda.html")
+- 参考文件网站：[https://www.realtimerendering.com/refs.html](https://www.realtimerendering.com/refs.html "https://www.realtimerendering.com/refs.html")
+- 参考文献合集仓库：[https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection")
+- wolai文件：[https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W](https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W "https://www.wolai.com/fkGSwxLu2pjWD7kiBY1V7W")
+- EPUB 格式文件
+  - @wizardforcel：[https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6](https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6 "https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/6")
+  - @milkiq：[https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/12](https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/12 "https://github.com/Morakito/Real-Time-Rendering-4th-CN/issues/12")
 
 ## 序言
 
@@ -72,7 +81,7 @@
 
 那个时候的电子游戏，无论是投币式的街机游戏，还是网吧里的《反恐精英》、《流星蝴蝶剑》、《仙剑奇侠传》、《星际争霸》、《帝国时代》等引领时代的游戏界的璀璨明珠，总能深深地吸引住每个纯真无邪孩童的心，绚烂的游戏画面总是让孩童们流连忘返。
 
-那个时候，每次放学后唯一单纯的想法，就是悄悄溜到学校附近的网吧，和电脑游戏亲密接触。口袋里有邻花钱的时候就能玩上一会儿，没有零花钱的时候就痴痴地站在屏幕前面看别人操纵着荧幕前的剑侠闯荡世界。年少的我单纯地认为，游戏世界中存在着一个无比恢弘的世界，那是可以装下梦想的地方。应该是我对游戏的痴迷，对游戏开发梦想的虔诚，让我走向了研习游戏开发的这条道路。
+那个时候，每次放学后唯一单纯的想法，就是悄悄溜到学校附近的网吧，和电脑游戏亲密接触。口袋里有零花钱的时候就能玩上一会儿，没有零花钱的时候就痴痴地站在屏幕前面看别人操纵着荧幕前的剑侠闯荡世界。年少的我单纯地认为，游戏世界中存在着一个无比恢弘的世界，那是可以装下梦想的地方。应该是我对游戏的痴迷，对游戏开发梦想的虔诚，让我走向了研习游戏开发的这条道路。
 
 还记得那个香樟树覆盖的夏天，年幼无知的我在一帮同学中吹牛说：我长大后，一定要自己开发出比这些还牛还要好玩的游戏。
 
