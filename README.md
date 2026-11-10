@@ -1,6 +1,39 @@
 # Real-Time-Rendering-4th-CN
 《Real-Time Rendering 4th》 (RTR4) 中文翻译，非官方版本。
 
+京东官方旗舰店：https://item.jd.com/15334794.html
+
+<p align="center">
+  <b>正版实体书已出版，点击下方图片或链接支持官方正版 👇</b>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://item.jd.com/15334794.html" target="_blank">
+        <img src="sourceFile/images/Readme/1.avif" alt="《实时渲染（第4版）》封面" width="240" />
+      </a>
+      <br /><sub>封面</sub>
+    </td>
+    <td align="center">
+      <a href="https://item.jd.com/15334794.html" target="_blank">
+        <img src="sourceFile/images/Readme/2.avif" alt="《实时渲染（第4版）》封底与推荐语" width="240" />
+      </a>
+      <br /><sub>封底与推荐语</sub>
+    </td>
+    <td align="center">
+      <a href="https://item.jd.com/15334794.html" target="_blank">
+        <img src="sourceFile/images/Readme/3.avif" alt="《实时渲染（第4版）》印刷细节实拍" width="240" />
+      </a>
+      <br /><sub>印刷细节实拍</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://item.jd.com/15334794.html" target="_blank">👉 前往京东官方旗舰店购买《实时渲染（第4版）》👈</a>
+</p>
+
 ## 关于本书
 
 英文名称：《Real-Time Rendering, Fourth Edition》
